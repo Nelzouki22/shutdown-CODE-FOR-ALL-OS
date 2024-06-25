@@ -1,0 +1,1 @@
+# shutdown CODE FOR ALL OS
